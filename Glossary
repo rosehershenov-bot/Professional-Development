@@ -1,0 +1,37 @@
+Ontology & Knowledge Engineering Glossary (Plain Language)
+Branch: A separate workspace in a GitHub repository where changes can be made without affecting the main version of a project.
+Cellfie: A Protégé plugin that converts spreadsheets (Excel or CSV) into ontology content.
+Commit: A saved change in Git/GitHub, like a snapshot showing what was added or updated.
+Cross-Functional Collaboration: Working with people in different roles to solve shared problems.
+Data Modeling: Designing how information is structured and connected.
+Description Logic: The logical “grammar” behind many ontologies that ensures classes and relationships make sense.
+Enterprise Ontology: Ontology used within a company to connect information across systems.
+Formal Ontology: Ontology built using strict logic and rules for automated reasoning.
+Git: A version control system that tracks changes and maintains history.
+GitHub: A platform for storing projects, tracking changes, and collaborating using Git.
+GitHub Actions: Automated workflows that run tasks such as validation checks.
+GitHub Issues: A place to record tasks, bugs, and requests related to a project.
+Interoperability: The ability of systems to share and understand each other’s data.
+Knowledge Graph: A network of connected facts showing relationships.
+Knowledge Representation (KR): A way of organizing knowledge so computers can interpret it.
+MOBI: A digital book file format sometimes used for offline documentation.
+Ontology: A structured map of concepts and relationships.
+Ontology Governance: Processes for creating, approving, and updating ontologies.
+Pipeline: An automated series of steps that process or transform data.
+Protégé: A tool for building and visualizing ontologies.
+Pull Request (PR): A request to merge changes into a main project branch.
+Repository (Repo): A project folder stored in GitHub.
+RDF: A standard way of representing information as linked statements.
+ROBOT: A tool to automate ontology tasks such as validation and merging.
+Scalability: A system’s ability to grow without breaking.
+Semantic Consistency: Ensuring terms maintain the same meaning everywhere.
+Semantic Data Architecture: Designing data systems so meaning is embedded from the start.
+Semantic Interoperability: Different systems can share data and maintain the same meaning.
+SHACL: Rules that check whether data follows the structure defined by an ontology.
+SPARQL: A query language for asking questions within a knowledge graph.
+Stakeholder Communication: Explaining concepts clearly to non-technical partners.
+Subject Matter Expert (SME): A domain expert who helps ensure ontology accuracy.
+Technical Documentation: Written explanations of how systems or ontologies work.
+Triple Store / Graph Database: A database designed for storing relationships.
+Use Case: An example showing how a system solves a real problem.
+White Paper: A short report explaining a solution or design approach.
