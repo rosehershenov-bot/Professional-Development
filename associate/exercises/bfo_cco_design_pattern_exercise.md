@@ -67,7 +67,7 @@ Submit:
 
 ## Graded Rubric (Associate Level)
 
-| Criterion | Exemplary (3) | Proficient (2) | Developing (1) | Not Demonstrated (0) |
+| Criterion | Proficient (3) | Deficient (2) | In Process (1) | Not Demonstrated (0) |
 |---------|----------------|----------------|----------------|---------------------|
 | **BFO Classification** | Correctly identifies birth as a process and explains why | Identifies birth as a process with minimal explanation | Partial or unclear identification | Incorrect classification |
 | **Pattern Identification** | Correctly identifies an existing CCO/CUBRC pattern | Identifies a relevant pattern with minor gaps | Mentions a pattern but lacks clarity | No pattern identified |
