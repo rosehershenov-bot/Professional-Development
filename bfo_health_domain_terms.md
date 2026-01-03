@@ -5,7 +5,7 @@ Participants should select 5–8 terms from the list and analyze each according 
 
 ⸻
 
-Persons and Roles
+
 	•	Patient
 	•	Clinician
 	•	Nurse
@@ -13,44 +13,40 @@ Persons and Roles
 	•	Caregiver
 	•	Research Subject
 
-(Useful for distinguishing material entities from roles.)
 
 ⸻
 
-Biological Entities
+
 	•	Human Organism
 	•	Organ
 	•	Tissue
 	•	Cell
 	•	Blood Sample
 
-(Material entities that may bear functions and dispositions.)
 
 ⸻
 
-Roles, Functions, and Dispositions
+
 	•	Patient Role
 	•	Disease Disposition
 	•	Risk Factor
 	•	Biological Function
 	•	Therapeutic Function
 
-(Supports role vs. function vs. disposition analysis.)
 
 ⸻
 
-Diseases and Conditions
 	•	Disease
 	•	Infection
 	•	Injury
 	•	Chronic Condition
 	•	Symptom
 
-(Highlights disposition, process, and quality distinctions.)
+
 
 ⸻
 
-Processes and Events
+
 	•	Diagnosis
 	•	Treatment
 	•	Surgery
@@ -58,28 +54,25 @@ Processes and Events
 	•	Screening
 	•	Hospitalization
 
-(Occurrents involving participation and temporal structure.)
 
 ⸻
 
-Measurements and Observations
+
 	•	Blood Pressure Measurement
 	•	Laboratory Test
 	•	Vital Signs
 	•	Diagnostic Result
 
-(Process vs. information content distinctions.)
+
 
 ⸻
 
-Information and Records
 	•	Medical Record
 	•	Diagnosis Code
 	•	Prescription
 	•	Test Result
 	•	Clinical Report
 
-(Information content entities vs. physical artifacts.)
 
 ⸻
 
@@ -90,7 +83,6 @@ Medical Artifacts
 	•	Medication
 	•	Vaccine
 
-(Material entities with defined functions.)
 
 ⸻
 
