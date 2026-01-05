@@ -1,0 +1,40 @@
+README.md
+ 
+Scenario
+
+You are given two small datasets from a healthcare system.
+
+Table A: Patients
+
+
+patient_id	name	birth_date	sex
+P001	Jane Smith	1990-04-12	F
+P002	John Doe	1985-09-30	M
+
+
+Table B: Visits
+visit_id	patient_id	visit_date	diagnosis_code
+V1001	P001	2024-01-10	I10
+V1002	P002	2024-01-15	E11
+Tasks
+1.	Identify the join key
+o	Which field connects Table A and Table B?
+2.	Identify value types
+o	For each field below, identify its value type
+(ID, text, date, or code)
+o	patient_id
+o	birth_date
+o	visit_date
+o	diagnosis_code
+3.	Describe the relationship
+o	In 1–2 sentences, describe how the two tables are related.
+4.	Reflection (guided)
+o	Would this data be easier to represent in:
+	a relational database
+	or a graph database?
+o	Briefly explain your reasoning.
+ 
+Submission
+•	Answer directly in this file or
+•	Submit a short written response (½–1 page) as instructed by your supervisor.
+
