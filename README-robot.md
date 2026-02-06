@@ -87,7 +87,45 @@ On macOS:
 For example, if your files are in **Downloads → Ontology practice**:
 
 ```bash
-cd ~/Downloads/"Ontology practice"
+cd ~/Downloads/"FILE NAME.owx "
+
+3. Run ROBOT Validation (Report)
+
+Use the following command (quotation marks are required if the file name has spaces):
+
+java -jar robot.jar report -i "FILE NAME.owx" -o report.tsv
+
+This command checks the ontology for common quality control issues such as:
+	•	Missing labels
+	•	Missing definitions
+	•	Missing ontology metadata
+	•	Import or IRI problems
+
+4. Review ROBOT Output
+
+ROBOT will report:
+	•	Errors (must be fixed)
+	•	Warnings (should be fixed)
+	•	Info (optional improvements)
+
+If you see output like:
+Violations: 11
+ERROR: 7
+WARN: 4
+
+This means ROBOT ran successfully and identified issues in the ontology.
+
+Note:
+“Report failed” means the ontology failed validation checks — not that ROBOT failed to run
+
+5. Open the Report File
+
+To view the detailed results:
+
+Run: 
+open report.tsv
+
+This file lists each issue, the affected entity, and what is missing.
 
 Part C — Review ROBOT Output
 
@@ -102,26 +140,13 @@ Common issues include:
 	•	Invalid IRIs
 	•	Import problems
 
-⸻
+After completing this step, you should be able to:
+	•	Run ROBOT from the command line
+	•	Generate a QC report
+	•	Identify missing labels, definitions, and metadata
+	•	Fix issues in Protégé and rerun ROBOT
 
-Part D — Create a QC Report
 
-Create a file called:
-
-robot-qc-report.md
-
-Required Content
-	•	The ROBOT command you ran
-	•	The ontology file name
-	•	The date
-	•	ROBOT output (copy/paste or summarized)
-
-Short Answers
-	1.	Did ROBOT report any issues?
-	2.	If yes, name one issue and explain what it means.
-	3.	If no issues, explain why you think the file passed validation.
-
-⸻
 
 Part E (Optional) — Fix and Re-run
 
