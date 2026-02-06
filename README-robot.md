@@ -56,15 +56,38 @@ For your new class, add (See Protege README)
 Save the ontology file.
 
 ⸻
+# Part B — Run ROBOT Validation
 
-Part B — Run ROBOT Validation
+This exercise demonstrates how to run ROBOT quality checks on an ontology file using the command line.
 
-Open Terminal and navigate to the folder containing your OWL file.
+---
 
-Run:
-robot validate --input YOUR_FILE.owl
-Example: 
-robot validate --input associate-protege.owl
+## Prerequisites
+
+- Java installed (verify with `java -version`)
+- `robot.jar` downloaded
+- An ontology file created in Protégé (e.g., `.owl`, `.rdf`, or `.owx`)
+- All files located in the same folder
+
+---
+
+## Steps
+
+### 1. Open Terminal
+
+On macOS:
+- Press `Command + Space`
+- Type **Terminal**
+- Press Enter
+
+---
+
+### 2. Navigate to the Folder Containing Your Files
+
+For example, if your files are in **Downloads → Ontology practice**:
+
+```bash
+cd ~/Downloads/"Ontology practice"
 
 Part C — Review ROBOT Output
 
