@@ -1,4 +1,4 @@
-Install Cellfie as a plug-in on Protege. (see directions in dimension.    
+Install Cellfie as a plug-in on Protege. (see directions in dimension).    
 Download the spreadsheet in the PD document next to the link to this repository.   
 
 In “Tools”, choose “Create Axioms from Excel Workbook” (this will use Cellfie)
