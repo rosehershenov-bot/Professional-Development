@@ -34,8 +34,9 @@ In BFO/CCO-aligned modeling:
 ## Part A — Setup
 
 1. Open **Protégé**
-2. Create a **New OWL Ontology**
-3. Save the file as:  associate-protege-role-exercise.owl
+2. Be sure that Protege is open under applications so you can save the ow   l file. 
+3. Create a **New OWL Ontology**
+4. Save the file as:  associate-protege-role-exercise.owl
 
 
 ## Part B — Create Classes
@@ -79,10 +80,10 @@ owl:Thing
 
 Add a textual definition using `IAO:definition` (preferred) or `rdfs:comment` if IAO is not available.
 
-### StudentRole
+### StudentRole--add Annotation
 > A student role is a role borne by a person while they are enrolled in an educational program.
 
-### Person (optional)
+### Person (optional) ---add Annotation
 > A person is a human individual.
 
 ---
