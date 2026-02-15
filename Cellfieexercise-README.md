@@ -20,3 +20,24 @@ Date: The date
 # Cell range: (Terms!B2:B5) Comment: ""
 # Class: @C*
 #     SubClassOf: @B*
+Class: A human individual.  # Generated from value "A human individual." located at cell 'Terms'!C2 using reference @C*.
+   	SubClassOf: Person
+Class: A role borne by a person while enrolled in an educational program.  # Generated from value "A role borne by a person while enrolled in an educational program." located at cell 'Terms'!C3 using reference @C*.
+   	SubClassOf: Student role
+Class: A role borne by a person who teaches students.  # Generated from value "A role borne by a person who teaches students." located at cell 'Terms'!C4 using reference @C*.
+  	 SubClassOf: Teacher role
+Class: An organized set of educational activities and requirements.  # Generated from value "An organized set of educational activities and requirements." located at cell 'Terms'!C5 using reference @C*.
+   	SubClassOf: Educational program
+# Cell range: (Terms!A4:A4) Comment: ""
+# Class: @B*
+#     SubClassOf: @C*
+Class: Teacher role  # Generated from value "Teacher role" located at cell 'Terms'!B4 using reference @B*.
+   	SubClassOf: A role borne by a person who teaches students.
+
+
+
+
+
+
+
+
