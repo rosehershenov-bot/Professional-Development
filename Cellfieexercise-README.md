@@ -21,12 +21,12 @@ End row: +
 
 In the rule box: 
 
-Class: @B*
+    Class: @B*
     	    
-            SubClassOf: @C*
+        SubClassOf: @C*
             
 This means that B is a subclass of C. Indentations and spaces are important. There are four spaces before “SubclassOf:”
     
-    Click “Generate Axioms”
+Click “Generate Axioms”
 
 Protege/Cellfie should generate 8 axioms. 
