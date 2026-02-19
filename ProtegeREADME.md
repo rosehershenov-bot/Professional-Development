@@ -35,15 +35,16 @@ In BFO/CCO-aligned modeling:
 
 1. Open **Protégé**
 2. Be sure that Protege is open under applications so you can save the ow   l file. 
-3. Create a **New OWL Ontology**
-4. Save the file as:  associate-protege-role-exercise.owl
+3. Create a new file and save immediately. Save as "rdf-xml" syntax. 
+4. Save the file as:  (your name) associate-protege-role-exercise.owl
 
 
 ## Part B — Create Classes
 
-### 1. Create a `Person` class
-- Go to the **Classes** tab
-- Create a class named `Person`
+### 1. Create a `Person` class<img width="57" height="52" alt="Screenshot 2026-02-19 at 8 53 58 AM" src="https://github.com/user-attachments/assets/393533be-e7e2-48a3-886a-52e198713818" />
+
+- Go to the **Classes** tab (under Entities)
+- Create a class named `Person`: <img width="64" height="134" alt="image" src="https://github.com/user-attachments/assets/4fed0032-631f-472a-99f1-d29a4f6f0c6f" />
 - Make it a subclass of `owl:Thing`
 
 ### 2. Create a `StudentRole` class
