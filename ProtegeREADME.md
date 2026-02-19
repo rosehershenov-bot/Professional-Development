@@ -43,7 +43,8 @@ In BFO/CCO-aligned modeling:
 
 ### 1. Create a `Person` class
 - Go to the **Classes** tab (under Entities)
-- Create a class named `Person`: <img width="64" height="134" alt="image" src="https://github.com/user-attachments/assets/4fed0032-631f-472a-99f1-d29a4f6f0c6f" />
+- Create a class named `Person`:<img width="28" height="41" alt="image" src="https://github.com/user-attachments/assets/4f7f5010-38fc-4721-a926-ffae47bdddcb" />
+
 - Make it a subclass of `owl:Thing`
 
 ### 2. Create a `StudentRole` class
