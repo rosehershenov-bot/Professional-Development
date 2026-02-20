@@ -118,8 +118,8 @@ Add a textual definition using `SKOS:definition` (preferred) or `rdfs:comment` i
 
 ## How to Submit (GitHub Workflow)
 
-1. Fork this repository
-2. Create a new branch named:
+
+1. Create a new branch in your forked repository named:
  associate-protege-submission
 3. Upload:
 - Your `.owl` file
