@@ -100,6 +100,7 @@ Add a textual definition using `IAO:definition` (preferred) or `rdfs:comment` if
    - Object property exists
    - Restriction is visible
    - Definitions are saved
+   - Make sure "Reasoner" is on. Use Hermit. If your inferred classes are the same as asserted, you have at least created a logically possible ontology. 
 
 ---
 
