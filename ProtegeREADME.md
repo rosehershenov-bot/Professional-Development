@@ -62,7 +62,7 @@ owl:Thing
 1. Go to the **Object Properties** tab
 2. Create an object property named:
  bearer_of
-3. Set:
+3. Set (be sure that bearer_of is highlighted)
 - **Domain:** `Person`
 - **Range:** `StudentRole`
 
@@ -100,7 +100,7 @@ Add a textual definition using `IAO:definition` (preferred) or `rdfs:comment` if
    - Object property exists
    - Restriction is visible
    - Definitions are saved
-   - Make sure "Reasoner" is on. Use Hermit. If your inferred classes are the same as asserted, you have at least created a logically possible ontology. 
+   - Make sure "Reasoner" is on. Use Hermit. If your inferred classes are the same as asserted, you have at the least created a logically possible ontology. 
 
 ---
 
