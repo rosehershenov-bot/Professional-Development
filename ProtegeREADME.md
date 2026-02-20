@@ -80,7 +80,7 @@ owl:Thing
 
 ## Part E — Add Definitions
 
-Add a textual definition using `IAO:definition` (preferred) or `rdfs:comment` if IAO is not available.
+Add a textual definition using `SKOS:definition` (preferred) or `rdfs:comment` if IAO is not available.
 
 ### StudentRole--add Annotation
 > A student role is a role borne by a person while they are enrolled in an educational program.
