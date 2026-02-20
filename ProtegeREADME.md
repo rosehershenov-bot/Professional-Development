@@ -34,7 +34,7 @@ In BFO/CCO-aligned modeling:
 ## Part A — Setup
 
 1. Open **Protégé**
-2. Be sure that Protege is open under applications so you can save the ow   l file. 
+2. Be sure that Protege is open under applications so you can save the file. 
 3. Create a new file and save immediately. Save as "rdf-xml" syntax. 
 4. Save the file as:  (your name) associate-protege-role-exercise.owl
 
