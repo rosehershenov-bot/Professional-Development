@@ -43,7 +43,7 @@ In BFO/CCO-aligned modeling:
 
 ### 1. Create a `Person` class
 - Go to the **Classes** tab (under Entities)
-- Create a class named `Person`:<img width="28" height="41" alt="image" src="https://github.com/user-attachments/assets/4f7f5010-38fc-4721-a926-ffae47bdddcb" />
+- Create a class named `Person`(Here):<img width="28" height="41" alt="image" src="https://github.com/user-attachments/assets/4f7f5010-38fc-4721-a926-ffae47bdddcb" />
 
 - Make it a subclass of `owl:Thing`
 
@@ -55,7 +55,7 @@ Your class hierarchy should look like:
 owl:Thing
 ├── Person
 └── StudentRole
----
+---If it doesn't, drag person to the top.
 
 ## Part C — Create an Object Property
 
@@ -71,7 +71,8 @@ owl:Thing
 ## Part D — Add a Class Restriction
 
 1. Select the **Person** class
-2. Add the restriction:
+2. Select "Equivalent to". Bearer_of is the restricted property. Person is the Restriction Filler. 
+3. Add the restriction:
    bearer_of some StudentRole
    This states that persons may bear a student role.
 
